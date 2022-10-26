@@ -1,0 +1,17 @@
+H:\windows programming\unwinform\unwinform\bin\Debug\net6.0-windows\unwinform.exe
+H:\windows programming\unwinform\unwinform\bin\Debug\net6.0-windows\unwinform.deps.json
+H:\windows programming\unwinform\unwinform\bin\Debug\net6.0-windows\unwinform.runtimeconfig.json
+H:\windows programming\unwinform\unwinform\bin\Debug\net6.0-windows\unwinform.dll
+H:\windows programming\unwinform\unwinform\bin\Debug\net6.0-windows\unwinform.pdb
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.csproj.AssemblyReference.cache
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.Form1.resources
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.csproj.GenerateResource.cache
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.GeneratedMSBuildEditorConfig.editorconfig
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.AssemblyInfoInputs.cache
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.AssemblyInfo.cs
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.csproj.CoreCompileInputs.cache
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.dll
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\refint\unwinform.dll
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.pdb
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\unwinform.genruntimeconfig.cache
+H:\windows programming\unwinform\unwinform\obj\Debug\net6.0-windows\ref\unwinform.dll
